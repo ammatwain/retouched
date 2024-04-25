@@ -1,0 +1,1 @@
+../../../../../.retouch/original/buildscripts/ci/backend/docker/mu2/publish_to_registry.sh

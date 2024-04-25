@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/tools/sparkle_appcast_gen.sh

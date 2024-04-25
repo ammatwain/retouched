@@ -1,0 +1,1 @@
+../../../.retouch/original/share/plugins/tuning/tuning.qml

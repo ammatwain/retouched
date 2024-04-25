@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/release/make_release_info_file.sh

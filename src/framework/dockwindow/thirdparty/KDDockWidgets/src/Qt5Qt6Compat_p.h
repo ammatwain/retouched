@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/framework/dockwindow/thirdparty/KDDockWidgets/src/Qt5Qt6Compat_p.h

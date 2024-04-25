@@ -1,0 +1,1 @@
+../../../../.retouch/original/share/templates/08-Orchestral/03-String_Orchestra/score_style.mss

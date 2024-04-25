@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/appshell/qml/NotationPage/NotationStatusBar.qml

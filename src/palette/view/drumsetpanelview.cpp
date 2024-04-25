@@ -1,0 +1,1 @@
+../../../.retouch/original/src/palette/view/drumsetpanelview.cpp

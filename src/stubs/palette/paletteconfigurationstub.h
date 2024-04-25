@@ -1,0 +1,1 @@
+../../../.retouch/original/src/stubs/palette/paletteconfigurationstub.h

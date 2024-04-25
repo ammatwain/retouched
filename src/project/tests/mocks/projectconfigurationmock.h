@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/project/tests/mocks/projectconfigurationmock.h

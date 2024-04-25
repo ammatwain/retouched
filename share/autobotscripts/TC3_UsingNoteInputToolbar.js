@@ -1,0 +1,1 @@
+../../.retouch/original/share/autobotscripts/TC3_UsingNoteInputToolbar.js

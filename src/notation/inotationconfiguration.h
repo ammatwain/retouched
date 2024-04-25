@@ -1,0 +1,1 @@
+../../.retouch/original/src/notation/inotationconfiguration.h

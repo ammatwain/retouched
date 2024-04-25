@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/backend/publish_to_registry.sh

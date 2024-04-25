@@ -1,0 +1,1 @@
+../../.retouch/original/tools/translations/process_source_ts_files.py

@@ -1,0 +1,1 @@
+../../.retouch/original/share/autobotscripts/TC9_BigScore(perfomance).js

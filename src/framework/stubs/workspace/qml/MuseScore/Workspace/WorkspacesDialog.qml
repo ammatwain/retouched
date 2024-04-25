@@ -1,0 +1,1 @@
+../../../../../../../.retouch/original/src/framework/stubs/workspace/qml/MuseScore/Workspace/WorkspacesDialog.qml

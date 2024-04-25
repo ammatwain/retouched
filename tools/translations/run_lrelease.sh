@@ -1,0 +1,1 @@
+../../.retouch/original/tools/translations/run_lrelease.sh

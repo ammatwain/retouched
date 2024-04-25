@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/framework/accessibility/tests/mocks/accessibilityconfigurationmock.h

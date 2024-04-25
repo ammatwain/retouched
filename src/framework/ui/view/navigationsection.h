@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/framework/ui/view/navigationsection.h

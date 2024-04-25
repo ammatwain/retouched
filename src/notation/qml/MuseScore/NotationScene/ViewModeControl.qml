@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/notation/qml/MuseScore/NotationScene/ViewModeControl.qml

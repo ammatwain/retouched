@@ -1,0 +1,1 @@
+../../.retouch/original/share/autobotscripts/TC5_UsingInstruments.js

@@ -1,0 +1,1 @@
+../../../.retouch/original/share/extensions/courtesy_accidentals/configure.qml

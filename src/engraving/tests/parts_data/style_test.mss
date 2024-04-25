@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/engraving/tests/parts_data/style_test.mss

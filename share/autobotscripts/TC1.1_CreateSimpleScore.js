@@ -1,0 +1,1 @@
+../../.retouch/original/share/autobotscripts/TC1.1_CreateSimpleScore.js

@@ -1,0 +1,1 @@
+../../.retouch/original/share/autobotscripts/TC6_UsingInspector_Note.js

@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/release/make_previous_releases_notes.sh

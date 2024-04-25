@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/framework/autobot/internal/api/scriptapi.cpp

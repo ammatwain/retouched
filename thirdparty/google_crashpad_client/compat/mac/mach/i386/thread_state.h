@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/thirdparty/google_crashpad_client/compat/mac/mach/i386/thread_state.h

@@ -1,0 +1,1 @@
+../../../.retouch/original/src/engraving/compat/scoreaccess.cpp

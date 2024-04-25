@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/importexport/guitarpro/internal/gtp/gptrack.h

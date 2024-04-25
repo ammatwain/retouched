@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/tools/checksum.sh

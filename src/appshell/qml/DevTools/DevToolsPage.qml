@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/appshell/qml/DevTools/DevToolsPage.qml

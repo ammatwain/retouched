@@ -1,0 +1,1 @@
+../../../../../../../.retouch/original/src/framework/dockwindow/thirdparty/KDDockWidgets/python/PyKDDockWidgets/__init__.py.cmake

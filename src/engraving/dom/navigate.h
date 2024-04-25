@@ -1,0 +1,1 @@
+../../../.retouch/original/src/engraving/dom/navigate.h

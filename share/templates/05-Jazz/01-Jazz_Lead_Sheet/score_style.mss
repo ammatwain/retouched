@@ -1,0 +1,1 @@
+../../../../.retouch/original/share/templates/05-Jazz/01-Jazz_Lead_Sheet/score_style.mss

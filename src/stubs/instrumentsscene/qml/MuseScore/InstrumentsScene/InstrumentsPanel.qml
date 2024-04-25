@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/stubs/instrumentsscene/qml/MuseScore/InstrumentsScene/InstrumentsPanel.qml

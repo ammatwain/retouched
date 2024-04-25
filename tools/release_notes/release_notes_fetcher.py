@@ -1,0 +1,1 @@
+../../.retouch/original/tools/release_notes/release_notes_fetcher.py

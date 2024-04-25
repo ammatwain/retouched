@@ -1,0 +1,1 @@
+../../../../.retouch/original/share/templates/02-Choral/01-SATB/score_style.mss

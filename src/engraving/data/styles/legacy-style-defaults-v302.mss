@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/engraving/data/styles/legacy-style-defaults-v302.mss

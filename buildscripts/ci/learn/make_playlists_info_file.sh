@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/learn/make_playlists_info_file.sh

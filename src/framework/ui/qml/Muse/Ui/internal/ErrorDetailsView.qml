@@ -1,0 +1,1 @@
+../../../../../../../.retouch/original/src/framework/ui/qml/Muse/Ui/internal/ErrorDetailsView.qml

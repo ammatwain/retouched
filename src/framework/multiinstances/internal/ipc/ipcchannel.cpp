@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/framework/multiinstances/internal/ipc/ipcchannel.cpp

@@ -1,0 +1,1 @@
+../../.retouch/original/share/locale/qt_pt_BR.ts

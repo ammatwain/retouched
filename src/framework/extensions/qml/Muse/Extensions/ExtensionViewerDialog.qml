@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/framework/extensions/qml/Muse/Extensions/ExtensionViewerDialog.qml

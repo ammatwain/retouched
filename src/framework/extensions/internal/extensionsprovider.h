@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/framework/extensions/internal/extensionsprovider.h

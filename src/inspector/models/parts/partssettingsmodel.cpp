@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/inspector/models/parts/partssettingsmodel.cpp

@@ -1,0 +1,1 @@
+../../.retouch/original/share/instruments/update_instruments_xml.py

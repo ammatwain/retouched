@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/macos/notarize.sh

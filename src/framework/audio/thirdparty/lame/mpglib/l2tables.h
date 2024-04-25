@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/framework/audio/thirdparty/lame/mpglib/l2tables.h

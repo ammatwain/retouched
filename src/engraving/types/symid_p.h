@@ -1,0 +1,1 @@
+../../../.retouch/original/src/engraving/types/symid_p.h

@@ -1,0 +1,1 @@
+../../../../.retouch/original/share/templates/07-Band_and_Percussion/02-Small_Concert_Band/score_style.mss

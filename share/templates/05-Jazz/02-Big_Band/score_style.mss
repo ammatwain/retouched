@@ -1,0 +1,1 @@
+../../../../.retouch/original/share/templates/05-Jazz/02-Big_Band/score_style.mss

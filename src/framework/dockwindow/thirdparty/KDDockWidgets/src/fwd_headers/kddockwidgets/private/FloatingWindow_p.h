@@ -1,0 +1,1 @@
+../../../../../../../../../.retouch/original/src/framework/dockwindow/thirdparty/KDDockWidgets/src/fwd_headers/kddockwidgets/private/FloatingWindow_p.h

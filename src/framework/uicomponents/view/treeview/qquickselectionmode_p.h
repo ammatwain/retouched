@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/framework/uicomponents/view/treeview/qquickselectionmode_p.h

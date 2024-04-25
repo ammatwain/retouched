@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/framework/diagnostics/qml/Muse/Diagnostics/DiagnosticNavigationPanel.qml

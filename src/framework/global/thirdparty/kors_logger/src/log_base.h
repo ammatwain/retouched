@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/framework/global/thirdparty/kors_logger/src/log_base.h

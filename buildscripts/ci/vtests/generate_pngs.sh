@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/vtests/generate_pngs.sh

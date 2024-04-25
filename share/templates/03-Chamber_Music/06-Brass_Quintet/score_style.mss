@@ -1,0 +1,1 @@
+../../../../.retouch/original/share/templates/03-Chamber_Music/06-Brass_Quintet/score_style.mss

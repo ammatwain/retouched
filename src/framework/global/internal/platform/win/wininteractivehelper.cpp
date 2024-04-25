@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/framework/global/internal/platform/win/wininteractivehelper.cpp

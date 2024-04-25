@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/engraving/tests/utils/scorerw.cpp

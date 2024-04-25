@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/framework/vst/internal/vstpluginmetareader.h

@@ -1,0 +1,1 @@
+../../../../../../../.retouch/original/src/framework/uicomponents/view/internal/platform/macos/macospopupviewclosecontroller.h

@@ -1,0 +1,1 @@
+../.retouch/original/vtest/vtest-compare-pngs.sh

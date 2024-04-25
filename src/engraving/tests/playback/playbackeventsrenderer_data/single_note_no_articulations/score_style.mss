@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/engraving/tests/playback/playbackeventsrenderer_data/single_note_no_articulations/score_style.mss

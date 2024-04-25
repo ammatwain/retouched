@@ -1,0 +1,1 @@
+../../../../../../../.retouch/original/src/framework/update/qml/Muse/Update/internal/ReleaseNotesView.qml

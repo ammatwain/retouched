@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/playback/qml/MuseScore/Playback/SoundProfilesDialog.qml

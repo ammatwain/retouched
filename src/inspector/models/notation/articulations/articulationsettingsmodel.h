@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/inspector/models/notation/articulations/articulationsettingsmodel.h

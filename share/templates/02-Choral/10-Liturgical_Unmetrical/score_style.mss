@@ -1,0 +1,1 @@
+../../../../.retouch/original/share/templates/02-Choral/10-Liturgical_Unmetrical/score_style.mss

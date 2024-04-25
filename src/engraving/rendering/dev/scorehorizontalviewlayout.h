@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/engraving/rendering/dev/scorehorizontalviewlayout.h

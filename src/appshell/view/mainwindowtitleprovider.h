@@ -1,0 +1,1 @@
+../../../.retouch/original/src/appshell/view/mainwindowtitleprovider.h

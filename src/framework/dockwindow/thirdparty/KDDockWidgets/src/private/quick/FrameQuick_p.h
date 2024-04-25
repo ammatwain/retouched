@@ -1,0 +1,1 @@
+../../../../../../../../.retouch/original/src/framework/dockwindow/thirdparty/KDDockWidgets/src/private/quick/FrameQuick_p.h

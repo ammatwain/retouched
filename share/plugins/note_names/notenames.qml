@@ -1,0 +1,1 @@
+../../../.retouch/original/share/plugins/note_names/notenames.qml

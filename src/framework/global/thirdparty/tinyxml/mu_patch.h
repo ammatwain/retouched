@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/framework/global/thirdparty/tinyxml/mu_patch.h

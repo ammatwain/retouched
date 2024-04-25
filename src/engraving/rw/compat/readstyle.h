@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/engraving/rw/compat/readstyle.h

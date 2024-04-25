@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/release/make_empty_release_info_file.sh

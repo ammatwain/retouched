@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/importexport/bww/internal/bww/writer.h

@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/framework/stubs/workspace/workspacemanagerstub.cpp

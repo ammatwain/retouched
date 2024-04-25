@@ -1,0 +1,1 @@
+../../../../.retouch/original/thirdparty/google_crashpad_client/util/win/scoped_handle.cc

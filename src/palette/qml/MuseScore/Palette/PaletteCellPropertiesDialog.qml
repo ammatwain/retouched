@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/palette/qml/MuseScore/Palette/PaletteCellPropertiesDialog.qml

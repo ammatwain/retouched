@@ -1,0 +1,1 @@
+../../../../../../../../.retouch/original/src/inspector/view/qml/MuseScore/Inspector/notation/tuplets/TupletSettings.qml

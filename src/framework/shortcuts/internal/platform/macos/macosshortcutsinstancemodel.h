@@ -1,0 +1,1 @@
+../../../../../../.retouch/original/src/framework/shortcuts/internal/platform/macos/macosshortcutsinstancemodel.h

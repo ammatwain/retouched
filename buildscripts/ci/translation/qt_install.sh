@@ -1,0 +1,1 @@
+../../../.retouch/original/buildscripts/ci/translation/qt_install.sh

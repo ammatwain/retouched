@@ -1,0 +1,1 @@
+../../../../../../../../.retouch/original/src/framework/dockwindow/thirdparty/KDDockWidgets/cmake/ECM/modules/ECMSetupVersion.cmake

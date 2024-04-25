@@ -1,0 +1,1 @@
+../../../../../.retouch/original/thirdparty/google_crashpad_client/compat/mac/kern/exc_resource.h

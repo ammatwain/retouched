@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/engraving/qml/MuseScore/Engraving/EngravingElementsPanel.qml

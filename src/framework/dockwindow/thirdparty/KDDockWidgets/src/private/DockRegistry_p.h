@@ -1,0 +1,1 @@
+../../../../../../../.retouch/original/src/framework/dockwindow/thirdparty/KDDockWidgets/src/private/DockRegistry_p.h

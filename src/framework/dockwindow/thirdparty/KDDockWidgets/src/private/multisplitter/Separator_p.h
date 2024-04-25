@@ -1,0 +1,1 @@
+../../../../../../../../.retouch/original/src/framework/dockwindow/thirdparty/KDDockWidgets/src/private/multisplitter/Separator_p.h

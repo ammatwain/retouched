@@ -1,0 +1,1 @@
+../../../../.retouch/original/share/templates/01-General/02-Bass_Clef/score_style.mss

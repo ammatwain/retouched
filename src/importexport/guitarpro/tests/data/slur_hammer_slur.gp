@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/importexport/guitarpro/tests/data/slur_hammer_slur.gp

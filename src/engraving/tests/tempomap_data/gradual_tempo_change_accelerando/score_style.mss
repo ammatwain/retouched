@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/engraving/tests/tempomap_data/gradual_tempo_change_accelerando/score_style.mss

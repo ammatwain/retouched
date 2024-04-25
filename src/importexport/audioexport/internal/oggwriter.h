@@ -1,0 +1,1 @@
+../../../../.retouch/original/src/importexport/audioexport/internal/oggwriter.h

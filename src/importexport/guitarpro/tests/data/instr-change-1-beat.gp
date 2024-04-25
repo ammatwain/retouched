@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/importexport/guitarpro/tests/data/instr-change-1-beat.gp

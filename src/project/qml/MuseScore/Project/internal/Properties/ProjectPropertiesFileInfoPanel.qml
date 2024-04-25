@@ -1,0 +1,1 @@
+../../../../../../../.retouch/original/src/project/qml/MuseScore/Project/internal/Properties/ProjectPropertiesFileInfoPanel.qml

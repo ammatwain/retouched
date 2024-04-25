@@ -1,0 +1,1 @@
+../../.retouch/original/share/locale/instruments_ar_DZ.ts

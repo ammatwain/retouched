@@ -1,0 +1,1 @@
+../../.retouch/original/tools/translations/tx_pull.sh

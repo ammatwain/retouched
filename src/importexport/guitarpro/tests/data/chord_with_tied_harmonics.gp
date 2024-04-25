@@ -1,0 +1,1 @@
+../../../../../.retouch/original/src/importexport/guitarpro/tests/data/chord_with_tied_harmonics.gp
